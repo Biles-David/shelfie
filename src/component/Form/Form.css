@@ -1,0 +1,46 @@
+.formBox {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 67vh;
+  width: 31vw;
+  background: #62d183;
+  border-radius: 10px;
+  right: 12vw;
+  top: 21vh;
+}
+
+.setImg {
+  position: relative;
+  top: 5%;
+  border: 1px solid red;
+  height: 40%;
+  width: 70%;
+}
+
+.formInput {
+  width: 90%;
+}
+
+.formButton {
+  position: relative;
+  background: #DE7261;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  margin: 20px;
+  height: 40px;
+  font-weight: bold;
+}
+
+.formText {
+  display: relative;
+  margin: 5%;
+  left: 0;
+}
+
+.hidden {
+  display: none;
+}

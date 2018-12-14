@@ -1,0 +1,21 @@
+.mainBar {
+  top: 0;
+  position: fixed;
+  display: flex;
+  height: 13vh;
+  width: 100vw;
+  background: #a13927;
+}
+
+.title {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.8em;
+  margin-top: 4.5vh;
+}
+
+.logo {
+  height: 50%;
+  width: auto;
+  margin: auto 2vw auto 5.25vw;
+}

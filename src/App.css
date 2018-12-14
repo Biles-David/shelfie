@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+.loading {
+  display: flex;
+  justify-content: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+button:hover {
+  cursor: pointer;
+}
